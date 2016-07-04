@@ -36,6 +36,6 @@ public class logINfacebook {
 		 driver.findElement(By.id("loginbutton")).click();
 		 
 		//Driver close
-		 driver.quit();
+		 driver.close();
 	}
 }
