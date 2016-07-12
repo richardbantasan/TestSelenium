@@ -42,6 +42,9 @@ public class logINfacebook {
 		 driver.findElement(By.id("findFriendsNav"));
 		
 		 
+		 
+		 
+		 
 		//Driver close
 	
 	}
